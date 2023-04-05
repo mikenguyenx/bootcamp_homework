@@ -1,0 +1,50 @@
+    5  cd Pictures
+    6  pwd
+    7  ls
+    8  cd Camera\ Roll/
+    9  ls
+   10  cd ..
+   11  ls
+   12  cd ..
+   13  ls
+   14  mkdir bootcamp
+   15  ls
+   16  rm -rf bootcamp
+   17  ls
+   18  cd Desktop
+   19  pwd
+   20  ls
+   21  vi test.txt
+   22  cat test.txt
+   23  rm rf- test.txt
+   24  ls
+   25  mkdir bootcamp
+   26  cd bootcam[
+   27  cd bootcamp
+   28  ls
+   29  ls
+   30  pwd
+   31  cd desktop
+   32  ls
+   33  cd Fintech\ Bootcamp/
+   34  ls
+   35  cd Fintech\ Workspace/
+   36  ls
+   37  cdcdcd
+   38  cdls
+   39  cd Challenges/
+   40  ls
+   41  cd Challenge2/
+   42  ls
+   43  cd loan_qualifier_application/
+   44  ls
+   45  git status
+   46  git push
+   47  pwd
+   48  ls
+   49  git status
+   50  git add.
+   51  git add .
+   52  git commit -m "updated README"
+   53  git push
+   54  history 50 > terminal_history.txt
