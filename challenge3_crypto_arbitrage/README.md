@@ -36,23 +36,23 @@ To use the crypto arbitrage analysis script:
 
 Below are screenshots of examples of results from the analysis:
 
-Data Analysis - Summary Statistics
+### Data Analysis - Summary Statistics
 
 ![summary_statistics](https://github.com/mikenguyenx/bootcamp_homework/blob/main/challenge3_crypto_arbitrage/summary_statistics.png)
 
-Data Analysis - Overlay Plot Visualization
+### Data Analysis - Overlay Plot Visualization
 
 ![overlay_plot](https://github.com/mikenguyenx/bootcamp_homework/blob/main/challenge3_crypto_arbitrage/overlay_plot_visualization.png)
 
-Data Analysis - Focus on Specific Date
+### Data Analysis - Focus on Specific Date
 
 ![day_arbitrage](https://github.com/mikenguyenx/bootcamp_homework/blob/main/challenge3_crypto_arbitrage/day_arbitrage_analysis.png)
 
-Arbitrage Profits - Summary Statistics & Visualization
+### Arbitrage Profits - Summary Statistics & Visualization
 
 ![profit_per_trade](https://github.com/mikenguyenx/bootcamp_homework/blob/main/challenge3_crypto_arbitrage/profit_per_trade_visualization.png)
 
-Cumulative Profit - Trend Analysis
+### Cumulative Profit - Trend Analysis
 
 ![cumsum](https://github.com/mikenguyenx/bootcamp_homework/blob/main/challenge3_crypto_arbitrage/cumsum.png)
 
