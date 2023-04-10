@@ -1,10 +1,11 @@
-# crypto_arbitrage_analysis
+# Bitcoin Arbitrage Analysis
 
 This Jupyter notebook contains code related to an analysis that determines Bitcoin arbitrage profit opportunities through price dislocations on markets across the globe.  With this analysis, arbitrage profits can be calculated leveraging historical trade data for Bitcoin on two exchanges: Bitstamp and Coinbase. The analysis performed uses the Pandas framework for data manipulation & analysis and Matplotlib for data visualizations to plot out profitability metrics.
 
 ## Technologies
 
 Programming Language: Python
+
 Interactive Development Environment: JupyterLab
 
 
@@ -17,26 +18,23 @@ Operating System(s):  Any operating system that supports Python, including Windo
 
 ## Installation Guide
 
-Before running the application, first install the following dependencies:
+To run the application:
 
-```
 1. Clone the repository: `git clone https://github.com/mikenguyenx/bootcamp_homework/tree/main/challenge3_crypto_arbitrage`
 2. Launch Jupyter Lab: `jupyter lab`
 3. Open `crypto_arbitrage.ipynb` in Jupyter Lab to view and run the data analysis code.
 4. The script will load data from two different exchanges (Bitstamp & Coinbase) and compare the prices of the cryptocurrency on each exchange, identifying opportunities for arbitrage.
-```
 
 
 ## Usage
 
-```
 To use the crypto arbitrage analysis script:
 
 1. Open `crypto_arbitrage.ipynb` in Jupyter Lab.
-2. Follow the instructions in the notebook to load and preprocess the data, and generate visualizations and insights for the cryptocurrency arbitrage opportunities.
+2. Run the code cells by clicking on the run button or by pressing the "Shift + Enter" key combination to load and preprocess the data, and generate visualizations
+3. The script uses Pandas to collect CSV data into the Jupyter notebook file for analysis using summary statistics and Matplotlib for visualizations.
 
 
-```
 
 ## Contributors
 
