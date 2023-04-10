@@ -38,7 +38,7 @@ Below are screenshots of examples of results from the analysis:
 
 Data Analysis - Summary Statistics
 
-![summary_statistics](challenge3_crypto_arbitrage/summary_statistics.png)
+![summary_statistics](https://github.com/mikenguyenx/bootcamp_homework/blob/main/challenge3_crypto_arbitrage/summary_statistics.png)
 
 Data Analysis - Overlay Plot Visualization
 
